@@ -1,4 +1,4 @@
-##Topics covered => 
+## Topics covered => 
     - props
     - map-method 
     - spread operator 
